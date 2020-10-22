@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bram</h1>
-<h3 align="center">A passionate developer from The Netherlands</h3>
+<h1 align="left">Hi 👋, I'm Bram</h1>
+<h3 align="left">A passionate developer from The Netherlands</h3>
 
 - 🔭 I’m currently working on [Sertar (A open source server fleet manager)](https://github.com/bramhoven/Sertar)
 
