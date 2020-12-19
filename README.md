@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Bram</h1>
 <h3 align="left">A passionate developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Sertar (A open source server fleet manager)](https://github.com/bramhoven/Sertar)
+- 🔭 I’m currently working on [Poseidon (A open source server fleet manager)](https://github.com/bramhoven/Poseidon)
 
 - 📫 How to reach me **bram.hoven@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/bramhoven/Sertar](https://github.com/bramhoven/)
+- 📄 Know about my experiences [https://github.com/bramhoven/Poseidon](https://github.com/bramhoven/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
