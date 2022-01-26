@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Bram</h1>
 <h3 align="left">A passionate developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Poseidon (A open source server fleet manager)](https://github.com/bramhoven/Poseidon)
+- 🔭 I’m currently working on [Luciferin (A Firefly III Importer)](https://github.com/bramhoven/Luciferin)
 
-- 📫 How to reach me **bram.hoven@hotmail.com**
-
-- 📄 Know about my experiences [https://github.com/bramhoven/Poseidon](https://github.com/bramhoven/)
+- 📫 How to reach me **[info@bramhoven.nl](mailto://info@bramhoven.nl)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +25,8 @@
 <h3 align="left">Frameworks</h3>
 <h4 align="left">Backend</h4>
 <p align="left">
+	<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+	<a href="https://github.com/dotnet/core" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> </a>
 	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 	<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
