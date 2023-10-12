@@ -11,6 +11,20 @@
 	<a href="https://linkedin.com/in/bram-hoven" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bram-hoven" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">GitHub stats:</h3>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bramhoven&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bramhoven&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bramhoven&show_icons=true" />
+</picture>
+</div>
+
 <h3 align="left">Languages</h3>
 <p align="left">	
 	<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
