@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Luciferin (A Firefly III Importer)](https://github.com/bramhoven/Luciferin)
 
-- 📫 How to reach me **[info@bramhoven.nl](mailto://info@bramhoven.nl)**
+- 📫 If you want to reach out, visit: **[bramhoven.nl](https://bramhoven.nl)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
